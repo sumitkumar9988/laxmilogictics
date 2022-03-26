@@ -92,7 +92,7 @@
 			var loader = setTimeout(function () {
 				plugins.pageLoader.addClass("loaded");
 				$window.trigger("resize");
-			}, 1000);
+			}, 400);
 		}
 
 		// Counter
