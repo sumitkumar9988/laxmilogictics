@@ -1,8 +1,8 @@
 {
   "useSmtp": false,
-  "host": "stmp.gmail.com",
+  "host": "smtp.mailtrap.io",
   "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "username": "7654fb2ee2a317",
+  "password": "cc2da4dd9a621a",
+  "recipientEmail": "sumitranga50@gmail.com"
 }
